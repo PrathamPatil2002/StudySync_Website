@@ -1,6 +1,7 @@
 
 # 📚 StudySync
-<img width="1355" height="636" alt="StudySync" src="https://github.com/user-attachments/assets/a95100f0-fca4-4b19-b1b7-28a2b772a0a4" />
+<img width="1355" height="636" alt="StudySync" src="https://github.com/user-attachments/assets/6978b56a-838e-48aa-b69c-f49744328c13" />
+
 
 
 StudySync is a modern and responsive e-learning website that helps students learn technical skills through interactive courses and hands-on learning. It features a clean UI, responsive design, and direct access to learning resources.
