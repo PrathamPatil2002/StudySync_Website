@@ -38,7 +38,7 @@ StudySync/
 
 ## 💻 Live Demo
 
-https://github.com/PrathamPatil2002/StudySync_Website
+https://prathampatil2002.github.io/StudySync_Website/
 
 ## 👨‍💻 Author
 
