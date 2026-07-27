@@ -40,7 +40,7 @@ StudySync/
 
 https://prathampatil2002.github.io/StudySync_Website/
 
-## 👨‍💻 Author
+## 📬 Contact
 
 **Pratham Laxman Patil**
 
