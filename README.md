@@ -38,7 +38,7 @@ StudySync/
 
 ## 💻 Live Demo
 
-Add your deployed website link here.
+https://github.com/PrathamPatil2002/StudySync_Website
 
 ## 👨‍💻 Author
 
