@@ -43,7 +43,9 @@ https://prathampatil2002.github.io/StudySync_Website/
 ## 📬 Contact
 
 **Pratham Laxman Patil**
-
+- Phone no: +917385202939
+- Email: prathamlpatil837@gmail.com   
+- Location: Pune,Maharashtra,India 
 - GitHub: https://github.com/PrathamPatil2002
 - LinkedIn: https://www.linkedin.com/in/pratham-patil-3a8ba9282/
 
