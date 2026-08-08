@@ -6,6 +6,12 @@
 
 StudySync is a modern and responsive e-learning website that helps students learn technical skills through interactive courses and hands-on learning. It features a clean UI, responsive design, and direct access to learning resources.
 
+
+## 💻 Live Demo
+
+https://prathampatil2002.github.io/StudySync_Website/
+
+
 ## 🚀 Features
 
 - Responsive Design
@@ -36,9 +42,6 @@ StudySync/
 └── README.md
 ```
 
-## 💻 Live Demo
-
-https://prathampatil2002.github.io/StudySync_Website/
 
 ## 📬 Contact
 
